@@ -2,8 +2,8 @@
 ## Overview
 Build a Todo list that utilizes React. This project should take no more than two hours to complete. Below, you'll find a list of MVP features that must be included in the final product, and a list of *stretch goals* that can be completed if you're feeling up to the challenge. Stretch goals are **optional** and will not lead to a disadvantage or disqualification should you choose not to complete them.
 
-# What's in the repo?
-In the repo, you'll find a basic create-react-app template. Feel free to modify the directories and code as you see fit. 
+# Getting Started
+To get started, fork and clone the repo down to your local machine. Go over the MVP requirements for this project and begin coding. In the repo, you'll find a basic create-react-app template. Feel free to modify the directories and code as you see fit.  Be sure to keep track of how much time you have spent building the project. 
 
 # MVP Requirements
 - User can add items to the list
