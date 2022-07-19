@@ -10,7 +10,7 @@ In the repo, you'll find a basic create-react-app template. Feel free to modify 
 - User can delete items from the list
 - Title contains a running tally of items on the todo list
     > ex) **You have 3 todos**
-- UI style follows the image provided
+- UI style follows the [image provided](https://user-images.githubusercontent.com/33849433/179803197-d1641319-f64e-4182-b585-2d33b5b4081d.png)
 
 # Stretch goals
 - Make the todo list responsive for mobile and large desktops
