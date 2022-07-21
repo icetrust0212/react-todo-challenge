@@ -1,5 +1,5 @@
 # Seven Cells Applicant Interview Challenge
-# Note: Do not modify the package.json file. This means installing or removing NPM packages. Do not include any additional libraries.
+### Note: Do not modify the package.json file. This means installing or removing NPM packages. Do not include any additional libraries.
 ## Overview
 Build a Todo list that utilizes React. This project should take no more than two hours to complete. Below, you'll find a list of MVP features that must be included in the final product, and a list of *stretch goals* that can be completed if you're feeling up to the challenge. Stretch goals are **optional** and will not lead to a disadvantage or disqualification should you choose not to complete them.
 
